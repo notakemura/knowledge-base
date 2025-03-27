@@ -1,13 +1,13 @@
-- DB の代表的な種類
-RDB : Oracle, SQL Server, DB2, PostgreSQL, MySQL
-OODB : ObjectStore, Caché
-XMLDB :
-Hierarchical Database :
-NoSQL :
-  - KVS（Key-Value Store） : Redis, DynamoDB, Riak
-  - ドキュメント指向 : MongoDB, CouchDB
-  - カラム指向 : Cassandra, HBase
-  - グラフ DB : Neo4j, ArangoDB
+- DB の代表的な種類  
+RDB : Oracle, SQL Server, DB2, PostgreSQL, MySQL  
+OODB : ObjectStore, Caché  
+XMLDB :  
+Hierarchical Database :  
+NoSQL :  
+  - KVS（Key-Value Store） : Redis, DynamoDB, Riak  
+  - ドキュメント指向 : MongoDB, CouchDB  
+  - カラム指向 : Cassandra, HBase  
+  - グラフ DB : Neo4j, ArangoDB  
 
 ---
 
