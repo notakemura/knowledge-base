@@ -36,5 +36,9 @@ ORDER BY 	query_time DESC
 check table status
 
 ```
+-- When the table stats were last updated
 SELECT * FROM mysql.innodb_table_stats;
+
+-- Whether it's set to update automatically
+show variables like 'innodb_stats_%';
 ```
