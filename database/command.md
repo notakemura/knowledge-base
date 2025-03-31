@@ -40,5 +40,5 @@ check table status
 SELECT * FROM mysql.innodb_table_stats;
 
 -- Whether it's set to update automatically
-show variables like 'innodb_stats_%';
+SHOW VARIABLES LIKE 'innodb_stats_%';
 ```
